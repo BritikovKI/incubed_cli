@@ -1,0 +1,4 @@
+in3
+PySide2
+shiboken2
+decorator
